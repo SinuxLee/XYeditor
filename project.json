@@ -1,7 +1,7 @@
 {
   "engine": "cocos-creator-js",
   "packages": "packages",
-  "name": "XYGame",
+  "name": "XYGameEditor",
   "uuid": "17412947-a435-46a9-830b-e845e03b5101",
   "version": "2.3.4",
   "id": "64601651-abd6-4a66-b1fd-0a4ce1e382d8",
